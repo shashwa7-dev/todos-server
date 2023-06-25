@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "e67ab44b-653f-434f-8108-f0b47a44874b",
+      "todo": "go to park",
+      "time": "Sun, 25 Jun 2023 11:41:01 GMT"
+    },
+    {
+      "id": "5edc8db9-d48f-46bd-b441-2d9b9d5b31aa",
+      "todo": "go to gym",
+      "time": "Sun, 25 Jun 2023 13:43:30 GMT"
+    }
+  ]
+}
